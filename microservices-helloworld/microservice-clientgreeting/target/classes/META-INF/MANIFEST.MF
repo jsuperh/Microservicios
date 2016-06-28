@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: microservice-clientgreeting
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.joshuacc
+Build-Jdk: 1.7.0_80
+Built-By: Administrador
+Created-By: Maven Integration for Eclipse
+
